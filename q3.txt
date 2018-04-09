@@ -1,3 +1,7 @@
 qhhhhhhhhhhhh
 
+<<<<<<< HEAD
 ggggggggcccccc
+=======
+ffffffff
+>>>>>>> fenzhi1
